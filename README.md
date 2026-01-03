@@ -3,16 +3,11 @@
   <h3>IT Analyst & Software Developer | Python, React & Firebase | English C1</h3>
   
   <p>
-    I'm a IT Analyst or Programmer Analyst from <b>INACAP</b> with a passion for building scalable web solutions.<br>
+    I'm an IT Analyst or  Programmer Analyst from <b>INACAP</b> with a passion for building scalable web solutions.<br>
     Currently bridging the gap between legacy systems and modern web architecture.
   </p>
 
-  <a href="https://www.linkedin.com/in/bryan-alegr%C3%ADa-past%C3%A9n-b996943a2/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:AlegriaPastenB@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/bryan-alegr%C3%ADa-past%C3%A9n-b996943a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:AlegriaPastenB@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
@@ -27,7 +22,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-  <br><br>
+  <br>
 
   **Backend & Data**<br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,7 +31,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-  <br><br>
+  <br>
 
   **Tools & DevOps**<br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
