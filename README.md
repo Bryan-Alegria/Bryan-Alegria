@@ -57,9 +57,12 @@ Desktop/Web application for SME inventory control with "Critical Stock" alerts a
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryan-Alegria&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Alegria&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bryan-Alegria&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Alegria&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
