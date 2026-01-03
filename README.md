@@ -3,7 +3,7 @@
   <h3>IT Analyst & Software Developer | Python, React & Firebase | English C1</h3>
   
   <p>
-    I'm an IT Analyst or  Programmer Analyst from <b>INACAP</b> with a passion for building scalable web solutions.<br>
+    I'm an IT Analyst or Programmer Analyst from <b>INACAP</b> with a passion for building scalable web solutions.<br>
     Currently bridging the gap between legacy systems and modern web architecture.
   </p>
 
@@ -57,12 +57,6 @@ Desktop/Web application for SME inventory control with "Critical Stock" alerts a
 
 ---
 
-### 🏆 Achievements & Stats
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bryan-Alegria&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Alegria&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <i>"Translating complex data into actionable insights."</i>
 </div>
