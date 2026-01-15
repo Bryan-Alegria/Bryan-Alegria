@@ -3,7 +3,7 @@
   <h3>IT Analyst & Software Developer | Python, React & Firebase | English C1</h3>
   
   <p>
-    I'm an IT Analyst or Programmer Analyst from <b>INACAP</b> with a passion for building scalable web solutions.<br>
+    I'm an IT Analyst or Programmer Analyst with a passion for building scalable web solutions.<br>
     Currently bridging the gap between legacy systems and modern web architecture.
   </p>
 
