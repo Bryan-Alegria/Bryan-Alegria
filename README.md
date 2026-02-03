@@ -54,9 +54,3 @@ Designed a prototype for financial data visualization using **Python (Pandas)** 
 *Full Stack Developer*
 Desktop/Web application for SME inventory control with "Critical Stock" alerts and optimized **SQL** queries for historical data.
 * **Tech:** Python, SQL, Tkinter/Web.
-
----
-
-<div align="center">
-  <i>"Translating complex data into actionable insights."</i>
-</div>
